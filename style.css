@@ -184,7 +184,7 @@ img {
 header.masthead {
  height: 500px;
  background-color: #343a40;
- background: url("../ASG1/assets/img/vaquita.jpg") no-repeat center center;
+ background: url("../Asg1/assets/img/vaquita.jpg") no-repeat center center;
  background-size: cover;
  padding-top: 8rem;
  padding-bottom: 8rem;
@@ -192,7 +192,7 @@ header.masthead {
 
 header.masthead2 {
   background-color: #f2f4f7;
-  background: url("../ASG1/assets/img/buyao.jpg") no-repeat center center;
+  background: url("../Asg1/assets/img/buyao.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -206,13 +206,13 @@ header.masthead2 {
 
  header.masthead4 {
   background-color: #f2f4f7;
-  background: url("../ASG1/assets/img/about\ us\ background.webp") no-repeat center center;
+  background: url("../Asg1/assets/img/about\ us\ background.webp") no-repeat center center;
   background-size: cover;
  }
 
 header.masthead5 {
   background-color: #f2f4f7;
-  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../ASG1/assets/img/bg-img.webp") ;
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../Asg1/assets/img/bg-img.webp") ;
   background-size: cover;
  }
 
@@ -800,3 +800,4 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+
